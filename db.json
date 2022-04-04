@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The black loincloth",
+      "author": "Bernard DAD",
+      "nbPages": 375
+    },
+    {
+      "id": 2,
+      "title": "God's wonders",
+      "author": "Junior ALK",
+      "nbPages": 485
+    },
+    {
+      "id": 3,
+      "title": "The Gospel as revealed to me",
+      "author": "Maria VALTO",
+      "nbPages": 225
+    },
+    {
+      "id": 4,
+      "title": "My life is a miracle",
+      "author": "Mister SMILE",
+      "nbPages": 775
+    },
+    {
+      "id": 5,
+      "title": "Give as a king's children",
+      "author": "John PIY",
+      "nbPages": 75
+    }
+  ]
+}
